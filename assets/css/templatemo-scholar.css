@@ -2025,7 +2025,7 @@ slidersection {
 .slide img {
   width: 150px;
   height: 150px;
-  animation: scroll 30s linear infinite;
+  animation: scroll 15s linear infinite;
 }
 
 .slide-track {
